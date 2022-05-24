@@ -48,6 +48,10 @@ box-shadow: rgba(126, 124, 136, 0.938) 0 0 10px;
     margin-top: 42px;
     border-bottom-left-radius: 5px;
 }
+.kulli2 span{
+    font-size: 13px;
+    font-weight: 10;
+}
 .kulli2 input {
     background-color: rgb(81, 255, 0);
     width: 200px;
@@ -104,10 +108,10 @@ color: rgb(213, 219, 224);
 
         .kulli {
          
-            width: 300px;
+            width: 280px;
             height: 799px;
             position: absolute;
-            margin-left:80px ;
+            margin-left:107px ;
             margin-top: 80px;
            
         }
@@ -120,7 +124,7 @@ color: rgb(213, 219, 224);
         .kulli1 {
             
             position:absolute;
-            width: 300px;
+            width: 280px;
             margin-top: 290.5px;
             margin-left: -250px;
             border-bottom-right-radius: 6.7px;
@@ -129,7 +133,7 @@ color: rgb(213, 219, 224);
         }
         .kulli2 {
             position:absolute;
-            width: 300px;
+            width: 280px;
             border-bottom-left-radius: 0px;
         }
     
