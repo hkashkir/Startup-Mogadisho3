@@ -50,7 +50,8 @@ box-shadow: rgba(126, 124, 136, 0.938) 0 0 10px;
 }
 .kulli2 span{
     font-size: 13px;
-    font-weight: 10;
+    font-weight: 100;
+    color: rgba(248, 248, 252, 0.493);
 }
 .kulli2 input {
     background-color: rgb(81, 255, 0);
@@ -86,7 +87,8 @@ color: azure;
     .kulli2 p
     {
 font-size: 14px;
-color: rgb(213, 219, 224);
+color:rgb(236, 236, 245) ;
+
     }
     .kulli1 h4
     
@@ -100,7 +102,7 @@ color: rgb(213, 219, 224);
     .kulli1 p
     {
 font-size: 16px;
-color: rgb(213, 219, 224);
+color:rgb(236, 236, 245) ;
 
 
     }
