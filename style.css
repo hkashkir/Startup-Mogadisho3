@@ -97,4 +97,47 @@ color: rgb(213, 219, 224);
     {
 font-size: 16px;
 color: rgb(213, 219, 224);
+
+
     }
+    @media only screen and (max-width: 600px) {
+
+        .kulli {
+         
+            width: 300px;
+            height: 799px;
+            position: absolute;
+            margin-left:80px ;
+            margin-top: 80px;
+           
+        }
+        
+        .all{
+            height: 1250px;
+            
+        }
+           
+        .kulli1 {
+            
+            position:absolute;
+            width: 300px;
+            margin-top: 290.5px;
+            margin-left: -250px;
+            border-bottom-right-radius: 6.7px;
+            border-bottom-left-radius: 6.7px;
+    
+        }
+        .kulli2 {
+            position:absolute;
+            width: 300px;
+            border-bottom-left-radius: 0px;
+        }
+    
+        
+
+
+
+
+        
+      }
+
